@@ -13,6 +13,7 @@ public class Ex3 {
 //	- 입출력 예 : [ 1 , 2 , 3 ] → ( {1 | 2} → 2 + { 1 | 3 } → 3 + { 2 | 3 } → 6 ) = 11
 	
 	public static int LCM(int [] arr) {
+		
 		int lcmSum = 0;
 		int n = arr.length;
 		// 입력한 값 더하는 식
