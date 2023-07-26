@@ -12,6 +12,7 @@ public class Ex3 {
 //	- arr 배열의 길이는 최소 3입니다.
 //	- 입출력 예 : [ 1 , 2 , 3 ] → ( {1 | 2} → 2 + { 1 | 3 } → 3 + { 2 | 3 } → 6 ) = 11
 	
+	
 	public static int LCM(int [] arr) {
 		
 		int lcmSum = 0;
