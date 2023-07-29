@@ -15,7 +15,7 @@ public class Ex3 {
 	
 	public static int LCM(int [] arr) {
 		
-		
+		 
 		int lcmSum = 0;
 		int n = arr.length;
 		// 입력한 값 더하는 식
