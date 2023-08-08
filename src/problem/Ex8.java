@@ -3,7 +3,8 @@ package problem;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class Ex8 {
+public class Ex8 {   
+	
 	
 	
 	public static void main(String[] args) {
