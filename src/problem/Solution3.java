@@ -28,6 +28,8 @@ class Solution3 {
 
         return result;
     }
+    
+    
 
     public static void main(String[] args) {
         Solution3 solution3 = new Solution3();
