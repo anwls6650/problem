@@ -9,6 +9,8 @@ class Solution3 {
         StringBuilder currentLine = new StringBuilder();
         int currentLength = 0;
 
+        
+        
         for (char c : text.toCharArray()) {
             int charSize = (c >= '가' && c <= '하') ? 2 : 1;
 
