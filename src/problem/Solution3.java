@@ -10,7 +10,6 @@ class Solution3 {
         int currentLength = 0;
 
         
-        
         for (char c : text.toCharArray()) {
             int charSize = (c >= '가' && c <= '하') ? 2 : 1;
 
